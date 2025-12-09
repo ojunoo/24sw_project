@@ -6,7 +6,9 @@
 
 | 이름   | 주요 업무 |
 | ------ | --------- |
-| 오주노 | frontend        |
-| 신호은 | frontend        |
+| 오주노 | frontend   |
+| 신호은 | frontend|
 | 조은우 | backend         |
+
+-----------
 
